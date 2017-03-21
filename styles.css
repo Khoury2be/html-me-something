@@ -1,0 +1,42 @@
+/*This is a comment!*/
+p {
+    color: green;
+    font-family: Garamond;
+}
+
+h3 {
+    color: red;
+    font-family: Courier;
+}
+
+li {
+    font-family: Verdana;
+}
+
+span {
+    color: blue;
+    font-family: Cursive;
+}
+footer p {
+    font-size: 12px;
+    color: black;
+}
+
+div {
+    height: 50px;
+    width: 125px;
+    border-color: blue;
+    background-color: blue;
+    border-style: dashed;
+    border-width: 2px;
+    border-radius: 5px;
+    margin-left: ;
+    text-align: center;
+}
+
+div a {
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    font-size: 1.20em;
+}
