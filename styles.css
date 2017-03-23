@@ -4,13 +4,14 @@ p {
     font-family: Garamond;
 }
 
-h3 {
+h2 {
     color: red;
     font-family: Courier;
 }
 
 li {
     font-family: Verdana;
+    font-size: 20px:
 }
 
 span {
@@ -39,4 +40,17 @@ div a {
     color: white;
     font-family: cursive;
     font-size: 1.20em;
+}
+
+body {
+    background-color: #C6E2FF;
+    }
+
+img {
+    border: 2px solid black;
+}
+a:hover {
+    font-family: cursive;
+    color: yellow;
+    font-size: 20px;
 }
